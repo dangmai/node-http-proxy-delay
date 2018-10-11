@@ -2,9 +2,14 @@
   "name": "http-proxy-delay",
   "version": "1.0.0",
   "description": "Proxy http requests following some delay",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/dangmai/node-http-proxy-delay"
+  }.
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "start": "node index.js"
   },
   "author": "Dang Mai <contact@dangmai.net>",
   "license": "MIT",
