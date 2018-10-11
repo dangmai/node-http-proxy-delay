@@ -1,0 +1,14 @@
+{
+  "name": "http-proxy-delay",
+  "version": "1.0.0",
+  "description": "Proxy http requests following some delay",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "Dang Mai <contact@dangmai.net>",
+  "license": "MIT",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
